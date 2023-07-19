@@ -1,8 +1,7 @@
 # workflow name
 name: project-1
 # event trigger
-# on: ["push"]
-on: [push]
+on: ["push"]
 
 jobs:
   # name
